@@ -93,14 +93,3 @@ Hello, Kalki! Welcome to Jenkins and Maven!
 - The build creates a JAR file at `target/hello-1.0.jar`
 
 ---
-
-## 📸 Submission
-
-- Screenshot your Jenkins Console Output showing `BUILD SUCCESS`
-- Push code to GitHub with:
-  - `HelloWorld.java`
-  - `pom.xml`
-  - `README.md`
-- Submit the repository link
-
----
